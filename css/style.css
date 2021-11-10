@@ -168,4 +168,14 @@ img {
     .profile-card {
         width: 325px;
     }
+
+    .bg-pattern-top {
+        top: -85%;
+        left: -175%;
+    }
+    
+    .bg-pattern-bottom {
+        bottom: -85%;
+        right: -175%;
+    }
 }
